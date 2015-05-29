@@ -1,4 +1,3 @@
-# The other side of DevOps:
-## Virtualization to support JavaScript Developers
+# Umm.. I have to do what to run this code?
 
-Presented at jsDay 2015 in Verona, Italy.
+Presented at JSConf 2015
